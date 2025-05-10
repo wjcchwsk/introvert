@@ -56,6 +56,8 @@ Building a sustainable, fulfilling career as an introverted technical writer is 
 
 > Small, consistent steps will take you much further than loud, unsustainable efforts.  
 > Your best career is the one that fits you — not one that exhausts you.
+
 ---
+
 **⬅️ Previous:** [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)
 **🏠 Back to Main:** [Main Page](../index)
