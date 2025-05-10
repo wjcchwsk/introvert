@@ -37,25 +37,25 @@ Use the guide as a reference, a toolkit, or simply a quiet companion as you grow
 **Start: What is your current priority?**
 
 - I want to understand and leverage my introverted strengths  
-  → Go to [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion.md)
+  → Go to [Chapter 2: Understanding Your Introversion](chapter-2-understanding-introversion)
 
 - I need to improve my work environment for better focus  
-  → Go to [Chapter 3: Creating an Introvert-Friendly Work Environment](docs/chapter-3-work-environment.md)
+  → Go to [Chapter 3: Creating an Introvert-Friendly Work Environment](chapter-3-work-environment)
 
 - I struggle with communication and collaboration  
-  → Go to [Chapter 4: Communicating Effectively at Work](docs/chapter-4-communication.md)
+  → Go to [Chapter 4: Communicating Effectively at Work](chapter-4-communication)
 
 - I aim to enhance my productivity and workflow  
-  → Go to [Chapter 5: Optimizing Your Workflow](docs/chapter-5-workflow.md)
+  → Go to [Chapter 5: Optimizing Your Workflow](chapter-5-workflow)
 
 - I’m looking to grow my career without burnout  
-  → Go to [Chapter 6: Growing Your Career Quietly](docs/chapter-6-career-growth.md)
+  → Go to [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth)
 
 - I feel overwhelmed or close to burnout  
-  → Go to [Chapter 7: Preventing Burnout and Staying Sustainable](docs/chapter-7-burnout.md)
+  → Go to [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)
 
 - I want to explore additional resources and next steps  
-  → Go to [Chapter 8: Resources and Next Steps](docs/chapter-8-resources.md)
+  → Go to [Chapter 8: Resources and Next Steps](chapter-8-resources)
 
 ---
 
@@ -77,4 +77,4 @@ You just need to work with your natural skills.
 ___
 
 **➡️ Next:** [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion.md)  
-**🏠 Back to Main:** [Main Page](index.md)
+**🏠 Back to Main:** [Main Page](../index)
