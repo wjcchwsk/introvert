@@ -78,7 +78,7 @@ You don't have to attend every happy hour or answer every Slack ping immediately
 - [ ] Dreading work persistently.
 ---
 
-**⬅️ Previous:** [Chapter 6: Growing Your Career Quietly](docs/chapter-6-career-growth.md)  
-**➡️ Next:** [Chapter 8: Useful Resources and Further Reading](docs/chapter-8-resources.md)  
-**🏠 Back to Main:** [Main Page](index.md)
+**⬅️ Previous:** [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth)  
+**➡️ Next:** [Chapter 8: Useful Resources and Further Reading](chapter-8-resources)  
+**🏠 Back to Main:** [Main Page](../index)
 

@@ -64,7 +64,7 @@ Use the guide as a reference, a toolkit, or simply a quiet companion as you grow
 Technical writing rewards focus, clarity, and independent work — all natural strengths for many introverts.  
 You’ll find that skills like deep focus, structured thinking, and strong written communication aren't just helpful — they’re exactly what this profession demands.
 
-> _For a full breakdown of introvert strengths in technical writing, see [Chapter 2](docs/chapter-2-understanding-introversion.md)._
+> _For a full breakdown of introvert strengths in technical writing, see [Chapter 2](chapter-2-understanding-introversion)._
 
 ---
 
@@ -76,5 +76,5 @@ You just need to work with your natural skills.
 > _"Write clearly enough, and you won't have to shout."_
 ___
 
-**➡️ Next:** [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion.md)  
+**➡️ Next:** [Chapter 2: Understanding Your Introversion](chapter-2-understanding-introversion)  
 **🏠 Back to Main:** [Main Page](../index)

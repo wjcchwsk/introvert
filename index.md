@@ -26,14 +26,14 @@ You'll find practical strategies for:
 
 Choose your current focus:
 
-- [Chapter 1: Introduction](docs/chapter-1-introduction.md)
-- [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion.md)
-- [Chapter 3: Creating an Introvert-Friendly Work Environment](docs/chapter-3-work-environment.md)
-- [Chapter 4: Communicating Effectively at Work](docs/chapter-4-communication.md)
-- [Chapter 5: Optimizing Your Workflow](docs/chapter-5-workflow.md)
-- [Chapter 6: Growing Your Career Quietly](docs/chapter-6-career-growth.md)
-- [Chapter 7: Preventing Burnout and Staying Sustainable](docs/chapter-7-burnout.md)
-- [Chapter 8: Useful Resources and Further Reading](docs/chapter-8-resources.md)
+- [Chapter 1: Introduction](chapter-1-introduction)
+- [Chapter 2: Understanding Your Introversion](chapter-2-understanding-introversion)
+- [Chapter 3: Creating an Introvert-Friendly Work Environment](chapter-3-work-environment)
+- [Chapter 4: Communicating Effectively at Work](chapter-4-communication)
+- [Chapter 5: Optimizing Your Workflow](chapter-5-workflow)
+- [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth)
+- [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)
+- [Chapter 8: Useful Resources and Further Reading](chapter-8-resources)
 
 ---
 

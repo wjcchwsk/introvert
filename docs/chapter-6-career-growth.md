@@ -70,6 +70,6 @@ Everyone doubts themselves sometimes — even senior writers.
 - [ ] Manage impostor syndrome with a **success file** and **clear boundaries**.
 ---
 
-**⬅️ Previous:** [Chapter 5: Optimizing Your Workflow](docs/chapter-5-workflow.md)  
-**➡️ Next:** [Chapter 7: Preventing Burnout and Staying Sustainable](docs/chapter-7-burnout.md)  
-**🏠 Back to Main:** [Main Page](index.md)
+**⬅️ Previous:** [Chapter 5: Optimizing Your Workflow](chapter-5-workflow)  
+**➡️ Next:** [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)  
+**🏠 Back to Main:** [Main Page](../index)

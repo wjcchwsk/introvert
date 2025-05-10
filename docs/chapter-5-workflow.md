@@ -59,7 +59,7 @@ The right tools support — not distract — your focus.
 | Task / Purpose                         | Suggested Tools |
 |---------------------------------------|-----------------|
 | **Organizing writing projects**       | [Notion](https://www.notion.so), [ClickUp](https://clickup.com), [Trello](https://trello.com) |
-| **Knowledge management (markdown notes)** | [Obsidian](https://obsidian.md), [Logseq](https://logseq.com), [Dendron](https://www.dendron.so) |
+| **Knowledge management (markdown notes)** | [Obsidian](https://obsidian), [Logseq](https://logseq.com), [Dendron](https://www.dendron.so) |
 | **Grammar and style checking**        | [Grammarly](https://www.grammarly.com), [LanguageTool](https://languagetool.org), [ProWritingAid](https://prowritingaid.com) |
 | **Clarity and readability editing**   | [Hemingway Editor](https://hemingwayapp.com), [Slick Write](https://www.slickwrite.com) |
 | **Time tracking & productivity**      | [Toggl Track](https://toggl.com/track), [Clockify](https://clockify.me), [RescueTime](https://www.rescuetime.com) |
@@ -113,6 +113,6 @@ After the session, assess what worked and identify areas for improvement.
 
 ---
 
-**⬅️ Previous:** [Chapter 4: Communicating Effectively at Work](docs/chapter-4-communication.md)  
-**➡️ Next:** [Chapter 6: Growing Your Career Quietly](docs/chapter-6-career-growth.md)  
-**🏠 Back to Main:** [Main Page](index.md)
+**⬅️ Previous:** [Chapter 4: Communicating Effectively at Work](chapter-4-communication)  
+**➡️ Next:** [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth)  
+**🏠 Back to Main:** [Main Page](../index)
