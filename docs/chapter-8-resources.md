@@ -59,5 +59,5 @@ Building a sustainable, fulfilling career as an introverted technical writer is 
 
 ---
 
-**⬅️ Previous:** [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)
+**⬅️ Previous:** [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)  
 **🏠 Back to Main:** [Main Page](../index)
