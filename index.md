@@ -27,7 +27,7 @@ You'll find practical strategies for:
 Choose your current focus:
 
 - [Chapter 1: Introduction](docs/chapter-1-introduction)
-- [Chapter 2: Understanding Your Introversion](chapter-2-understanding-introversion)
+- [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion)
 - [Chapter 3: Creating an Introvert-Friendly Work Environment](chapter-3-work-environment)
 - [Chapter 4: Communicating Effectively at Work](chapter-4-communication)
 - [Chapter 5: Optimizing Your Workflow](chapter-5-workflow)
