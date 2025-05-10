@@ -28,12 +28,12 @@ Choose your current focus:
 
 - [Chapter 1: Introduction](docs/chapter-1-introduction)
 - [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion)
-- [Chapter 3: Creating an Introvert-Friendly Work Environment](chapter-3-work-environment)
-- [Chapter 4: Communicating Effectively at Work](chapter-4-communication)
-- [Chapter 5: Optimizing Your Workflow](chapter-5-workflow)
-- [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth)
-- [Chapter 7: Preventing Burnout and Staying Sustainable](chapter-7-burnout)
-- [Chapter 8: Useful Resources and Further Reading](chapter-8-resources)
+- [Chapter 3: Creating an Introvert-Friendly Work Environment](docs/chapter-3-work-environment)
+- [Chapter 4: Communicating Effectively at Work](docs/chapter-4-communication)
+- [Chapter 5: Optimizing Your Workflow](docs/chapter-5-workflow)
+- [Chapter 6: Growing Your Career Quietly](docs/chapter-6-career-growth)
+- [Chapter 7: Preventing Burnout and Staying Sustainable](docs/chapter-7-burnout)
+- [Chapter 8: Useful Resources and Further Reading](docs/chapter-8-resources)
 
 ---
 
