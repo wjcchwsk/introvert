@@ -1,3 +1,9 @@
+---
+title: Growing Your Career Quietly
+layout: default
+nav_order: 7
+---
+
 # 6. Growing Your Career Quietly
 
 ---

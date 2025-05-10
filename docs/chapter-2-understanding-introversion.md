@@ -1,3 +1,9 @@
+---
+title: Understanding Your Introversion
+layout: default
+nav_order: 3
+---
+
 # 2. Understanding Your Introversion
 
 ---

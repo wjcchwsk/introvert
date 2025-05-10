@@ -1,3 +1,9 @@
+---
+title: Useful Resources and Further Reading
+layout: default
+nav_order: 9
+---
+
 # 8. Useful Resources and Further Reading
 
 ---

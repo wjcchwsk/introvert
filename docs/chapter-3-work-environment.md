@@ -1,3 +1,9 @@
+---
+title: Creating an Introvert-Friendly Work Environment
+layout: default
+nav_order: 4
+---
+
 # 3. Creating an Introvert-Friendly Work Environment
 
 ---

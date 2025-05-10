@@ -1,3 +1,9 @@
+---
+title: Optimizing Your Workflow
+layout: default
+nav_order: 6
+---
+
 # 5. Optimizing Your Workflow
 
 ---

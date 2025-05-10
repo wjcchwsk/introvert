@@ -1,3 +1,9 @@
+---
+title: Preventing Burnout and Staying Sustainable
+layout: default
+nav_order: 8
+---
+
 # 7. Preventing Burnout and Staying Sustainable
 
 ---

@@ -1,3 +1,9 @@
+---
+title: Communicating Effectively at Work
+layout: default
+nav_order: 5
+---
+
 # 4. Communicating Effectively at Work
 
 ## Using Written Communication to Your Advantage
