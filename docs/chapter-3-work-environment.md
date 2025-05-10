@@ -62,7 +62,7 @@ nav_order: 4
 
 
 > **Reminder:**
-> See [Chapter 7](chapter-7-burnout.md) for long-term burnout prevention strategies.
+> See [Chapter 7](docs/chapter-7-burnout.md) for long-term burnout prevention strategies.
 
 
 ---
@@ -85,6 +85,6 @@ nav_order: 4
 
 ---
 
-**⬅️ Previous:** [Chapter 2: Understanding Your Introversion](chapter-2-understanding-introversion.md)  
-**➡️ Next:** [Chapter 4: Communicating Effectively at Work](chapter-4-communication.md)  
+**⬅️ Previous:** [Chapter 2: Understanding Your Introversion](docs/chapter-2-understanding-introversion.md)  
+**➡️ Next:** [Chapter 4: Communicating Effectively at Work](docs/chapter-4-communication.md)  
 **🏠 Back to Main:** [Main Page](index.md)

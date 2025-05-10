@@ -49,7 +49,7 @@ nav_order: 5
 - Decide calmly **what to apply** and **what to leave aside**.
 
 > **Reminder:**  
-> See [Chapter 6](chapter-6-career-growth.md) for networking and personal branding strategies.
+> See [Chapter 6](docs/chapter-6-career-growth.md) for networking and personal branding strategies.
 
 ---
 
@@ -77,6 +77,6 @@ Best,
 **— Alex Ponomarev**, [medium.com](https://medium.com/engineering-managers-journal/leading-team-meetings-as-an-introvert-is-not-only-possible-its-beneficial-3b2adb485b62)
 
 ---
-**⬅️ Previous:** [Chapter 3: Creating an Introvert-Friendly Work Environment](chapter-3-work-environment.md)  
-**➡️ Next:** [Chapter 5: Optimizing Your Workflow](chapter-5-workflow.md)  
+**⬅️ Previous:** [Chapter 3: Creating an Introvert-Friendly Work Environment](docs/chapter-3-work-environment.md)  
+**➡️ Next:** [Chapter 5: Optimizing Your Workflow](docs/chapter-5-workflow.md)  
 **🏠 Back to Main:** [Main Page](index.md)

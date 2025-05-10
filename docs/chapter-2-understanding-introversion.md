@@ -27,17 +27,17 @@ Quickly rate each statement from 1 (strongly disagree) to 5 (strongly agree):
 - **Mostly 4–5 → Strong introvert**  
   You likely prefer solitary work, deep focus, and minimal interruption.  
   Focus on chapters that support quiet productivity and energy management:  
-  → Chapter 2 (this one), [Chapter 3 (workspace setup)](chapter-3-work-environment.md), [Chapter 7 (burnout prevention)](chapter-7-burnout.md)
+  → Chapter 2 (this one), [Chapter 3 (workspace setup)](docs/chapter-3-work-environment.md), [Chapter 7 (burnout prevention)](docs/chapter-7-burnout.md)
 
 - **Mixed → Ambivert**  
   You balance quiet focus with occasional collaboration.  
   Use strategies that flex between working solo and working with others:  
-  → [Chapter 4 (communication)](chapter-4-communication.md), [Chapter 5 (workflow)](chapter-5-workflow.md), [Chapter 6 (career growth)](chapter-6-career-growth.md)
+  → [Chapter 4 (communication)](docs/chapter-4-communication.md), [Chapter 5 (workflow)](docs/chapter-5-workflow.md), [Chapter 6 (career growth)](docs/chapter-6-career-growth.md)
 
 - **Mostly 1–2 → More extroverted traits**  
   You enjoy interaction, but technical writing still calls for focus and structure.  
   Leverage your communication strengths and sharpen clarity-focused skills:  
-  → [Chapter 4 (verbal + written communication)](chapter-4-communication.md), [Chapter 8 (resources)](chapter-8-resources.md)
+  → [Chapter 4 (verbal + written communication)](docs/chapter-4-communication.md), [Chapter 8 (resources)](docs/chapter-8-resources.md)
 
 ---
 
@@ -82,6 +82,6 @@ Quickly rate each statement from 1 (strongly disagree) to 5 (strongly agree):
 
 ---
 
-**⬅️ Previous:** [Chapter 1: Introduction](chapter-1-introduction.md)  
-**➡️ Next:** [Chapter 3: Creating an Introvert-Friendly Work Environment](chapter-3-work-environment.md)  
+**⬅️ Previous:** [Chapter 1: Introduction](docs/chapter-1-introduction.md)  
+**➡️ Next:** [Chapter 3: Creating an Introvert-Friendly Work Environment](docs/chapter-3-work-environment.md)  
 **🏠 Back to Main:** [Main Page](index.md)

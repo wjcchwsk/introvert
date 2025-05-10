@@ -113,6 +113,6 @@ After the session, assess what worked and identify areas for improvement.
 
 ---
 
-**⬅️ Previous:** [Chapter 4: Communicating Effectively at Work](chapter-4-communication.md)  
-**➡️ Next:** [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth.md)  
+**⬅️ Previous:** [Chapter 4: Communicating Effectively at Work](docs/chapter-4-communication.md)  
+**➡️ Next:** [Chapter 6: Growing Your Career Quietly](docs/chapter-6-career-growth.md)  
 **🏠 Back to Main:** [Main Page](index.md)
