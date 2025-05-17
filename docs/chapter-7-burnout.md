@@ -76,6 +76,7 @@ You don't have to attend every happy hour or answer every Slack ping immediately
 - [ ] Resenting coworkers or tasks.  
 - [ ] Escaping into social media, games, or distractions.  
 - [ ] Dreading work persistently.
+
 ---
 
 **⬅️ Previous:** [Chapter 6: Growing Your Career Quietly](chapter-6-career-growth)  
