@@ -68,6 +68,7 @@ Everyone doubts themselves sometimes — even senior writers.
 - [ ] Share expertise through **blogs or documentation contributions**.  
 - [ ] **Target job applications** — quality over quantity.  
 - [ ] Manage impostor syndrome with a **success file** and **clear boundaries**.
+
 ---
 
 **⬅️ Previous:** [Chapter 5: Optimizing Your Workflow](chapter-5-workflow)  
